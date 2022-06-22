@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenriChap, a bioinformatician aiming to belong in dev world
+- 👋 Hi, I’m @HenriChap, a bioinformatician aiming to belong in devs world
 - 💞️ I love to solve problems and share experiences
 - 🌱 I’m currently learning web development and python
 - 👀 I’m looking to improve my skills in programming and learn new things
