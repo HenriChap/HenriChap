@@ -2,7 +2,7 @@
 - 💞️ I love to solve problems and share experiences
 - 🌱 I’m currently learning web development and python
 - 👀 I’m looking to improve my skills in programming and learn new things
-- 📫 How to reach me (soon available)
+- 📫 How to reach me: henriquechapola@gmail.com or https://www.linkedin.com/in/henrique-chapola-441743146/
 
 <!---
 HenriChap/HenriChap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
