@@ -3,7 +3,7 @@
 - 🦠 Brazilian Soils Microbiome Project contributor (go check our [site](https://braziliansoilsmicrobiome.github.io/soil/))
 - 🤓 Data lover and scientific method advocate
 - 🌱 Full-stack web development enthusiast
-- 👀 I’m looking to improve my skills in programming and learn new things
+- 👀 I’m looking to improve my skills in python programming and data science
 - 📫 How to reach me: henriquechapola@gmail.com or https://www.linkedin.com/in/henrique-chapola-441743146/
 
 <!---
